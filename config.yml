@@ -1,10 +1,10 @@
-tg_bot_token: INSERT YOUR TELEGRAM BOT TOKEN HERE
+tg_bot_token: 1990575948:AAGIUQDT-MIf-p8oSNffBWkBsC_ys4bFKeE
 check_interval: 60
 datadir: ./data
 msg_template: |-
-  *[{feedtitle}]*
-  [{title}]({url})
-
+  
+ /mirror {url}
+*[{feedtitle}]*
   ```
   {desc}
   ```
